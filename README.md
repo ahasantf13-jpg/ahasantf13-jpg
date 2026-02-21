@@ -108,26 +108,6 @@ phone      : +963 981 544 999
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahasantf13-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahasantf13-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahasantf13-jpg&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahasantf13-jpg&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## 🎯 2025 Goals
 
 - [ ] 🌍 Contribute to **open-source Flutter packages**
