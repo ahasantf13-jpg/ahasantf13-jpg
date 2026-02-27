@@ -106,18 +106,6 @@ phone      : +963 981 544 999
 ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 
----
-
-## 🎯 2025 Goals
-
-- [ ] 🌍 Contribute to **open-source Flutter packages**
-- [ ] 📦 Publish **personal Flutter packages** on pub.dev
-- [ ] 🤝 Collaborate on impactful **freelance & startup projects**
-- [ ] 📈 Grow into a **Senior Flutter Developer** role
-- [ ] 🧪 Master **Flutter testing** (unit, widget & integration)
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
